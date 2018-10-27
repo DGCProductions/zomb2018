@@ -1,13 +1,13 @@
 # **Zomb2018: for what comes in the dark...**
 
 ## **Versions**
-Current Version: N/A
+Current Version: [v1.0](https://github.com/DGCProductions/zomb2018/releases/tag/v1.0)
 
-Current BETA: N/A
+Current BETA: N/A 
 
-Upcoming Version: N/A
+Upcoming Version: N/A (final)
 
-See all versions: N/A
+[See all versions](https://github.com/DGCProductions/zomb2018/releases)
 
 ## **What the game is about...**
 
