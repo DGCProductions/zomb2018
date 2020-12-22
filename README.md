@@ -1,4 +1,4 @@
-# **Zomb2018:* for what comes in the dark...***
+# **Zomb2018: *for what comes in the dark...***
 
 ## **Versions**
 Current Version: [v1.0](https://github.com/DGCProductions/zomb2018/releases/tag/v1.0)
